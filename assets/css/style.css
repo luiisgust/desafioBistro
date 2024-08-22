@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    outline: 0;
+    padding: 10;
+}
+
+/* lista de tarefa */
+body.list{
+    display: flex;
+}
