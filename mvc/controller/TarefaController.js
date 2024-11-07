@@ -1,7 +1,7 @@
 const TarefaDAO = require('../DAO/TarefaDAO')
 const path = require('path')
 
-const tarefaDAO = new TarefaDAO();
+const tarefaDAO = new TarefaDAO(); 
 
 
 module.exports = (app) => {
